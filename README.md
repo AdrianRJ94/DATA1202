@@ -1,4 +1,5 @@
 # DATA1202
+# Contents and summary of file
 The repository contains 2 files
 1. Salaries.CSV
 2. Salaries_pandas.ipynb
